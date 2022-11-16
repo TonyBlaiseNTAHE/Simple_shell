@@ -284,7 +284,7 @@ $
 ## Authors :black_nib:
 
 * Jesse Josiah <[Jessezephyr](https://github.com/JesseZeph)>
-sh: 1: :q: not found
+* Unyime Danison <[UmieeCodes](https://github.com/UmieeCodes)>
 
 ## License :lock:
 
